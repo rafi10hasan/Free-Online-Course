@@ -3,7 +3,17 @@
 body{
     font-family: 'Montserrat', sans-serif;
     height: 100%;
-    
+}
+
+@media screen and (max-width:768px) {
+    .carousel-img img{
+        height: 550px;
+        object-fit: cover;
+    }
+}
+
+.header-section{
+    margin-bottom: 100px;
 }
 
 
