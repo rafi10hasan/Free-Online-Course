@@ -5,6 +5,10 @@ body{
     height: 100%;
 }
 
+.fa-brands{
+    color: white;
+}
+
 @media screen and (max-width:768px) {
     .carousel-img img{
         height: 550px;
